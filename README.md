@@ -1,0 +1,1 @@
+Connect 4 is a two-player strategy board game. The board consists of 6 rows and 7 columns, forming a vertical grid. Players take turns dropping colored discs into one of the columns. The disc falls straight down to the lowest available position in that column.
