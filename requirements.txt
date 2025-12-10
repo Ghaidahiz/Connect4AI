@@ -1,0 +1,18 @@
+# Core dependencies (Python 3.13 compatible)
+numpy==2.0.0
+pandas==2.2.3
+scikit-learn==1.6.0
+joblib==1.4.2
+
+# Machine Learning frameworks
+xgboost==2.1.0
+catboost==1.2.6
+
+# Deep Learning
+torch==2.4.0
+
+# Game/Visualization
+pygame==2.6.1
+
+# For consistent random seeds
+torch-deterministic==0.2.1
