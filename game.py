@@ -35,16 +35,16 @@ class Connect4GUI:
         self.WIDTH = self.COLS * self.CELL_SIZE
         self.HEIGHT = (self.ROWS + 1) * self.CELL_SIZE
         
-        # Colors with gradients and beautiful dark theme
-        self.BACKGROUND_TOP = (24, 28, 60)  # Lighter navy from the top gradient
-        self.BACKGROUND_BOTTOM = (10, 12, 32)  # Deep dark navy from the bottom
+        self.BACKGROUND_TOP = (24, 28, 60)  
+        self.BACKGROUND_BOTTOM = (10, 12, 32) 
         self.BOARD_COLOR = (22, 36, 71)
         self.BOARD_HIGHLIGHT = (31, 64, 104)
-        self.PLAYER_COLOR = (208, 32, 47)  # The specific red from "ذكائك"
-        self.AI_COLOR = (255, 209, 0)  # The specific yellow from "الذكاء الاصطناعي"
-        self.ACCENT_COLOR = (78, 205, 196) # Turquoise (unchanged - keep vibrant)
-        self.TEXT_COLOR = (230, 230, 230)  # Light grey/white for body text
-        self.SHADOW_COLOR = (35, 35, 55)  # Deep charcoal navy (lighter than black)      # Initialize screen
+        self.PLAYER_COLOR = (208, 32, 47)  
+        self.AI_COLOR = (255, 209, 0)  
+        self.ACCENT_COLOR = (78, 205, 196) 
+        self.TEXT_COLOR = (230, 230, 230)  
+        self.SHADOW_COLOR = (35, 35, 55) 
+        # Initialize screen
         try:
             self.screen = pygame.display.set_mode((self.SCREEN_WIDTH, self.SCREEN_HEIGHT), pygame.FULLSCREEN)
             print("Running in FULLSCREEN mode")
