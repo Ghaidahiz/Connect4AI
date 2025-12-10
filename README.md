@@ -43,7 +43,7 @@ See requirements.txt for complete list. Major dependencies include:
 
 - **Scikit-learn**
 
-- **TensorFlow/PyTorch (for CNN model)**
+- **PyTorch (for CNN model)**
 
 
 
