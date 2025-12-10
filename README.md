@@ -1,7 +1,7 @@
 # Connect 4 AI GUI 🏆
 
 ![Connect 4](https://img.shields.io/badge/Connect-4-blue)
-![Python](https://img.shields.io/badge/Python-3.8+-green)
+![Python](https://img.shields.io/badge/Python-3.13.9-3776AB?logo=python&logoColor=green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-1st_Place-gold)
 
