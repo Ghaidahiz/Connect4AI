@@ -72,10 +72,13 @@ Our winning solution employs a 4-model stacking ensemble:
 
 
 ## Contributors
-Ghaida AlZaidan 
-Leena Alonayq
-Eman Ameen
-Shahad Aldamegh
+- **Ghaida AlZaidan**
+
+-** Leena Alonayq**
+
+- **Eman Ameen**
+
+- **Shahad Aldamegh**
 
 
 ## Acknowledgments
