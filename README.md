@@ -1,5 +1,8 @@
 # Connect 4 AI GUI 🏆
 
+<img width="1352" height="878" alt="Screenshot 2026-03-03 at 10 19 13 PM" src="https://github.com/user-attachments/assets/48b5d7b4-f8c0-4c68-9256-eda67ec89f10" />
+<img width="1352" height="878" alt="Screenshot 2026-03-03 at 10 19 32 PM" src="https://github.com/user-attachments/assets/308bd67e-718b-4ebe-a21f-3f37ea673c74" />
+
 ![Connect 4](https://img.shields.io/badge/Connect-4-blue)
 ![Python](https://img.shields.io/badge/Python-3.13.9-green?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-1st_Place-gold)
