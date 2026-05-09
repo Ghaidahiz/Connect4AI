@@ -2,7 +2,7 @@
 
 <img width="1352" height="878" alt="Screenshot 2026-03-03 at 10 19 13 PM" src="https://github.com/user-attachments/assets/48b5d7b4-f8c0-4c68-9256-eda67ec89f10" />
 
-<img src="https://img.shields.io/badge/Connect-4-blue" style="vertical-align: middle;" alt="Connect 4"> <img src="https://img.shields.io/badge/Python-3.13.9-green?logo=python&logoColor=white" style="vertical-align: middle;" alt="Python"> <img src="https://img.shields.io/badge/Status-1st_Place-gold" style="vertical-align: middle;" alt="Status"> <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib"><img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png" width="100" style="vertical-align: -100px;" alt="Fair Badge"></a>
+<img src="https://img.shields.io/badge/Connect-4-blue" style="vertical-align: middle;" alt="Connect 4"> <img src="https://img.shields.io/badge/Python-3.13.9-green?logo=python&logoColor=white" style="vertical-align: middle;" alt="Python"> <img src="https://img.shields.io/badge/Status-1st_Place-gold" style="vertical-align: middle;" alt="Status"> <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib"><img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png" width="100" style="vertical-align: -8px;" alt="Fair Badge"></a>
 
 A sophisticated Connect 4 AI system that won first place in the King Saud University (KSU) Machine Learning course [Kaggle competition](https://www.kaggle.com/competitions/csc462-connect-4). This implementation features an advanced 4-model stacking ensemble approach for optimal gameplay decision-making. The goal of the competiton was to use pure ML to predict the best moves, exact solvers like minimax and MCTS were not allowed.
 
