@@ -10,7 +10,7 @@
 
   <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
     <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png"
-         height="28"
+         height="40"
          style="vertical-align:middle;"
          alt="Fair Badge"/>
   </a>
