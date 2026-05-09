@@ -2,15 +2,20 @@
 
 <img width="1352" height="878" alt="Screenshot 2026-03-03 at 10 19 13 PM" src="https://github.com/user-attachments/assets/48b5d7b4-f8c0-4c68-9256-eda67ec89f10" />
 
-![Connect 4](https://img.shields.io/badge/Connect-4-blue)
-![Python](https://img.shields.io/badge/Python-3.13.9-green?logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-1st_Place-gold)
+<p align="center">
 
-
+  <img src="https://img.shields.io/badge/Connect-4-blue" />
+  <img src="https://img.shields.io/badge/Python-3.13.9-green?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-1st_Place-gold" />
 
   <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
-    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png" width="250" alt="شعار معرض العالمات" />
+    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png"
+         height="28"
+         style="vertical-align:middle;"
+         alt="Fair Badge"/>
   </a>
+
+</p>
 
 
 
