@@ -6,6 +6,14 @@
 ![Python](https://img.shields.io/badge/Python-3.13.9-green?logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-1st_Place-gold)
 
+<div align="center">
+
+  <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
+    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/badge.png" width="300" alt="شعار معرض العالمات" />
+  </a>
+
+</div>
+
 A sophisticated Connect 4 AI system that won first place in the King Saud University (KSU) Machine Learning course [Kaggle competition](https://www.kaggle.com/competitions/csc462-connect-4). This implementation features an advanced 4-model stacking ensemble approach for optimal gameplay decision-making. The goal of the competiton was to use pure ML to predict the best moves, exact solvers like minimax and MCTS were not allowed.
 
 ## Features
