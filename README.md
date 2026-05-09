@@ -91,3 +91,13 @@ King Saud University Machine Learning Course | CSC462
 All competitors who participated in the competition
 
 Kaggle
+
+
+
+  <a href="https://www.linkedin.com/company/ksu-cs-fair-maarad-aalimat-alhasib">
+    <img src="https://raw.githubusercontent.com/ComputerScientistsPF/logos/main/300px.png" width="300" alt="شعار معرض العالمات" />
+  </a>
+
+ 
+
+
